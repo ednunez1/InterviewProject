@@ -1,5 +1,5 @@
 # Project Name
-Gridium Interview
+Interview Project
 
 ## Description
 This is a python script that will pull and XML file from the web, find and extract data from the XML, and write the data to
